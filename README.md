@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe.svg)](https://nbessieres.github.io)
+[![website](./img/globe.png)](https://nbessieres.github.io)
 &nbsp;&nbsp;
 [![website](./img/twitter.svg)](https://twitter.com/Revious_NB)
 &nbsp;&nbsp;
