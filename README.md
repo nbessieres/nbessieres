@@ -1,6 +1,6 @@
 # Hi there, I'm Revious 👋 
 
-## I'm a 20 yo empty head
+## I'm a 21 yo empty head
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Stay alive
