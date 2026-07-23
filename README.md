@@ -1,9 +1,9 @@
 # Hello there, I'm Nicolas 👋 
 
-## I'm a 23 yo wanderer begginner
+## I'm a 25 yo wanderer begginner
 
 - 🌱 I’m currently learning, I'm a sprout :D
-- 🥅 2024 Goals: Produce a "decent" website for myself
+- 🥅 
 - ⚡ 
 
 ---
